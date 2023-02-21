@@ -3,7 +3,7 @@
 ## I'm a Developer!
 - 🔭 I am an avid learner, programmer and problem solver.
 - 🌱 I am passionate about building impactful solutions to complex problems.
-- ⚡ Interests: A.I. and Machine Learning, Algorithms, Web developement. 
+- ⚡ Interests: A.I. and Machine Learning, Data Structures & Algorithms, Web developement. 
 
 ### Languages and Tools:
 <p align="left">
