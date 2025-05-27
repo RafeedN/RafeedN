@@ -12,5 +12,7 @@
   </a>
 </p>
   <p align="left">:zap: GitHub Stats</p>
-  <img align="left" alt="RafeedN's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RafeedN&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img src="https://github-readme-stats-black-omega-66.vercel.app/api?username=RafeedN&show_icons=true&hide_border=true&title_color=E26EE5&icon_color=E26EE5&text_color=CFCFE7&bg_color=00000000&custom_title=Rafeed's+Stats" />
+
+
 
