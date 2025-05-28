@@ -7,8 +7,8 @@
 
 ### Languages and Tools:
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img width="600px" src="https://skillicons.dev/icons?i=js,nodejs,react,html,css,cpp,java,py,git,github,vscode,vite,figma" />
+  <a>
+    <img width="600px" src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,html,css,cpp,dotnet,java,py,mongodb,aws,azure,git,github,vscode,vite,figma" />
   </a>
 </p>
   <p align="left">:zap: GitHub Stats</p>
