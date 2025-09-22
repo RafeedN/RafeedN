@@ -11,8 +11,5 @@
     <img width="600px" src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,html,css,cpp,dotnet,java,py,mongodb,aws,azure,git,github,vscode,vite,figma" />
   </a>
 </p>
-  <p align="left">:zap: GitHub Stats</p>
-  <img src="https://github-readme-stats-black-omega-66.vercel.app/api?username=RafeedN&show_icons=true&hide_border=true&title_color=E26EE5&icon_color=E26EE5&text_color=CFCFE7&bg_color=00000000&custom_title=Rafeed's+Stats" />
-
 
 
