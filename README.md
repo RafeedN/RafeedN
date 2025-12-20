@@ -8,7 +8,7 @@
 ### Languages and Tools:
 <p align="left">
   <a>
-    <img width="600px" src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,html,css,cpp,dotnet,java,py,mongodb,aws,azure,git,github,vscode,vite,figma" />
+    <img width="600px" src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,html,css,c,cpp,cmake,cs,dotnet,java,py,go,docker,kubernetes,mongodb,aws,azure,git,github,vscode,vite,figma,qt" />
   </a>
 </p>
 
