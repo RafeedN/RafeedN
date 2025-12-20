@@ -5,11 +5,19 @@
 - 🌱 I am passionate about building impactful solutions to complex problems.
 - ⚡ Interests: A.I. and Machine Learning, Data Structures & Algorithms, Web developement. 
 
-### Languages and Tools:
-<p align="left">
-  <a>
-    <img width="600px" src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,html,css,c,cpp,cmake,cs,dotnet,java,py,go,docker,kubernetes,mongodb,aws,azure,git,github,vscode,vite,figma,qt" />
-  </a>
-</p>
 
 
+### Languages
+<img width="500px" src="https://skillicons.dev/icons?i=js,ts,html,css,c,cpp,cs,java,py,go" />
+
+### Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,dotnet,qt&size=32" />
+
+### Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure" />
+
+### Databases
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase" />
+
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vite,figma,cmake,postman" />
