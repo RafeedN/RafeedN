@@ -8,13 +8,13 @@
 
 
 ### Languages
-<img width="500px" src="https://skillicons.dev/icons?i=js,ts,html,css,c,cpp,cs,java,py,go,ruby" style="width: 400px;"/>
+<img width="500px" src="https://skillicons.dev/icons?i=js,ts,html,css,c,cpp,cs,java,py,go,ruby" style="width: 420px;"/>
 
 ### Frameworks & Libraries
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,dotnet,qt" style="width: 200px;"/>
 
 ### Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp" style="width: 175px;"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp" style="width: 200px;"/>
 
 ### Databases
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase" style="width: 130px;"/>
